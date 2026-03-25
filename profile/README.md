@@ -18,11 +18,10 @@ We utilize a robust automation stack to ensure high availability and seamless de
 * **Quality Assurance**: Automated validation is handled through our dedicated **[Integration Tests](https://github.com/DevOpsClassProject/ecommerce-integration-tests)** suite.
 
 ## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Groovy](https://img.shields.io/badge/groovy-%234298b8.svg?style=for-the-badge&logo=apache-groovy&logoColor=white)
 
 ---
-*This project was developed as part of a specialized DevOps engineering curriculum to master distributed systems and automated delivery.*
+*This project was developed as part of a specialized DevOps engineering curriculum and automated delivery.*
